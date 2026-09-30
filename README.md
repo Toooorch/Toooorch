@@ -1,0 +1,1 @@
+**Day 43 on GitHub:** *The developers still haven't realized I'm a designer. I've learned to slowly nod whenever someone mentions "Docker" or "Kubernetes" and just say "Yeah, caching is tricky." It's working so far.*
